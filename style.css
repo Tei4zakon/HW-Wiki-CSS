@@ -1,0 +1,11 @@
+.bluetext {
+    color: aqua;
+    font-size: 2rem;
+    text-align: justify;
+    background-color: beige;
+}
+#redtext {
+    color: red;
+    text-transform: capitalize;
+    font-weight: 600;
+}
